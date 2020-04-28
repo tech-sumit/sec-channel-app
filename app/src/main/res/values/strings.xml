@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Secure Communicator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_button_text"><![CDATA[<]]></string>
+    <string-array name="sec_questions">
+        <item>What is your mother\'s maiden name?</item>
+        <item>What is your birth place?</item>
+        <item>What is your favourite primary school teacher?</item>
+        <item>What is your favourite writer?</item>
+        <item>What is the name of your childhood best friend?</item>
+        <item>Any secerate code word for verification?</item>
+    </string-array>
+</resources>
